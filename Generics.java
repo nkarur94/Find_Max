@@ -12,7 +12,6 @@ public class Generics <T extends Comparable<T>>{
     }
 
     public void maximumOfNum() {
-
         if (a.compareTo(b) >0) {
             if (a.compareTo(c)>0){
                 System.out.println("a is greater");
