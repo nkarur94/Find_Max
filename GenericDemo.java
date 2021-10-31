@@ -8,7 +8,5 @@ public class GenericDemo {
         findMax.maximumOfNum();
         findMaxF.maximumOfNum();
         findMaxS.maximumOfNum();
-_
-
     }
 }
